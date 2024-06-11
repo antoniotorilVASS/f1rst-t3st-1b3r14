@@ -1,0 +1,15 @@
+{
+  "name": "f1rst-t3st-1b3r14",
+  "version": "1.0.0",
+  "description": "f1rst-t3st-1b3r14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.11.0"
+  }
+}
