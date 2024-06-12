@@ -1,5 +1,14 @@
 {
-  "name": "Using fixtures to represent data",
-  "email": "hello@cypress.io",
-  "body": "Fixtures are a great way to mock data for responses to routes"
+    "name": "Using fixtures to represent data",
+    "email": "hello@cypress.io",
+    "body": "Fixtures are a great way to mock data for responses to routes",
+    "faqs": {
+        "faq1": "¿Cómo conseguir el vuelo más barato?",
+        "faq2": "¿Cuáles son los días más baratos para volar?",
+        "faq3": "¿Cuándo son las mejores ofertas de vuelos?",
+        "faq4": "¿Qué día de la semana es mejor para comprar un billete de avión a buen precio?",
+        "faq5": "¿Con cuánta antelación debo reservar un vuelo para conseguir la mejor oferta?",
+        "faq6": "¿Qué tarifa me garantiza el mejor precio en mi vuelo?"
+    },
+    "url": "https://www.iberia.com/es/vuelos-baratos/"
 }
